@@ -19,4 +19,4 @@ jobs:
           -H "Content-Type: application/json" \
           -H "Secret: ${{ secrets.DEPLOY_SECRET }}"
 
-sudo cloudflared service install eyJhIjoiOTk4YmU3MTc3NzU4ZjU2ODIzZjg3MmRlMTk0NjU4ZjAiLCJ0IjoiYjEzNDk1NTEtMzMyYy00YTBkLWE2OWYtZDkzZjE0ZmZjMWJlIiwicyI6Ill6TmtPVGcxTUdRdFl6a3daQzAwTldSakxXSTROVFl0TmpFNVlXTTFZMlJtTkRjMSJ9
+
